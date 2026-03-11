@@ -1,0 +1,5 @@
+<screen>
+	<view name="test">
+		<lv_label bind_text="dark_theme" />
+	</view>
+</screen>
